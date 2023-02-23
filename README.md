@@ -1,4 +1,4 @@
-# grocery_app
+# flutter_grocery_application
 
 Become a financial contributor - <img alt="open collective badge" src="https://opencollective.com/grocery-platform/tiers/backers/badge.svg?label=backer&color=brightgreen" />
 
@@ -77,6 +77,3 @@ Resolve the errors and warnings that are shown in the application.
 - cached_network_image - For storing internet image into cache
   https://pub.dev/packages/cached_network_image
     
-### Support
-
-Connect to Widle Studio Team.
